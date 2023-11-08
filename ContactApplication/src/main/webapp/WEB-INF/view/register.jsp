@@ -11,7 +11,7 @@
 		style="margin: 70px auto; background-color: white; border-radius: 5px; box-shadow: 0px 0px 10px; width: 390px; height: 400px;
 		background-color: silver;">
 		>
-		<h2 style="text-align: center;color: black; ">User-Register-Page</h2>
+		<h2 style="text-align: center;color: black; ">User-SignUp-Page</h2>
 		
 		<form action="registerPage">
 

@@ -27,7 +27,7 @@
 		<span style="margin-left: 50px">Don't have account?</span>
 		<button
 			style="background-color: black; width: 90px; height: 30px; border-radius: 5px; margin-left: 210px; margin-bottom: 60px">
-			<a href="registerfor" target="blank" style="text-decoration: none; color: white;">register</a>
+			<a href="registerfor" target="blank" style="text-decoration: none; color: white;">SignUp</a>
 		</button>
 		<br>
 	</div>
